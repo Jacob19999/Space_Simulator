@@ -1,6 +1,8 @@
 # Space_Simulator
 
-The overarching goal of this project is to familiarize with the math and physics aspect of game design, where it governs how objects in a game scene moves and rotates upon the framework of a space simulation game. This is an attempt to demonstrate and bridge the gap between a Computer science major and an informational technology major, the “math” part. Hence endangered orbit's foremost emphasis is on realistic physics, which implements the real scale to those found in the cosmos resulting in a level of depth shall be deeper in many ways compared to the kerbal space program, in the regime of spacecraft movement physics as well as orbital mechanics. The next focus of the game shall be graphical fidelity, involving implementation of mathematical compute shaders that run natively on the GPU as post processing techniques, basically similar to “ray tracing”.
+# Gallery
+
+![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a4be09d7-ec7c-4311-acc0-f5f90dcfc51f)
 
 # Physically based atmosphere  
 
@@ -18,9 +20,9 @@ https://github.com/Jacob19999/unity_inertia_tensor
 
 https://github.com/Jacob19999/unity_spaceship_control_system/tree/main
 
-# Gallery
+# Goal 
 
-![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a4be09d7-ec7c-4311-acc0-f5f90dcfc51f)
+The overarching goal of this project is to familiarize with the math and physics aspect of game design, where it governs how objects in a game scene moves and rotates upon the framework of a space simulation game. This is an attempt to demonstrate and bridge the gap between a Computer science major and an informational technology major, the “math” part. Hence endangered orbit's foremost emphasis is on realistic physics, which implements the real scale to those found in the cosmos resulting in a level of depth shall be deeper in many ways compared to the kerbal space program, in the regime of spacecraft movement physics as well as orbital mechanics. The next focus of the game shall be graphical fidelity, involving implementation of mathematical compute shaders that run natively on the GPU as post processing techniques, basically similar to “ray tracing”.
 
 # Overview implementation
 
