@@ -14,13 +14,9 @@ https://github.com/Jacob19999/unity_n-body_runge-kutta
 
 https://github.com/Jacob19999/unity_inertia_tensor
 
-![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a66c3f97-2846-4b64-b68e-eeefd9924d20)
+# Gallery
 
-![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/dd42be80-42ec-427e-8416-455f519a68e4)
-
-![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/9b01d33c-b323-45ca-9ce9-3103291f2d90)
-
-![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/52502d68-cc07-4091-81c1-85c421a93c29)
+![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a4be09d7-ec7c-4311-acc0-f5f90dcfc51f)
 
 # Overview implementation
 
