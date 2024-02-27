@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4427653748630969730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4427653748630969732}
+  - component: {fileID: 4427653748630969733}
+  - component: {fileID: 4427653748630969731}
+  - component: {fileID: 4427653748630969734}
+  m_Layer: 0
+  m_Name: Planetarium
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4427653748630969732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4427653748630969730}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9712267, y: -2.8625903, z: 3.528676}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4427653748630969733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4427653748630969730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29e72a81ed1fb2c478acd7f3186121ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4427653748630969731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4427653748630969730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991f7319b62774940b59f313bbd7aa95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  helioCentricBody: {fileID: 0}
+  celestialObjects: []
+  celestialObjectOrbit: []
+  satelliteObjects: []
+  satelliteObjectOrbit: []
+  gameSpeed: 1
+  planetariumScale: 100000
+  fixedTimeStep: 0
+--- !u!114 &4427653748630969734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4427653748630969730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d95a5884fd2f7140b27529171ededce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _planetarium: {fileID: 0}
+  LineRendererReference: {fileID: 0}
+  drawLines: 0
+  drawGizmos: 0
+  maxRenderDistance: 100000
+  twoBodySegmentCount: 50
+  nBodySegmentCount: 1000
+  nBodySegmentLength: 50
+  currentSegment: 0
+  elapsedTime: 0
+  debuggingTransform: {fileID: 0}
+  debuggingTransform1: {fileID: 0}
+  debuggingTransform2: {fileID: 0}
+  debuggingTransform3: {fileID: 0}
+  initState: 0
