@@ -2,23 +2,23 @@
 
 ![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a4be09d7-ec7c-4311-acc0-f5f90dcfc51f)
 
-# Physically based atmosphere  
+Physically based atmosphere  
 
 https://github.com/Jacob19999/unity_physically_based_atmospheric_shader
 
-# Orbital Mechanics SYstem
+Orbital Mechanics SYstem
 
 https://github.com/Jacob19999/unity_n-body_runge-kutta
 
-# Spaceship Physics System
+Spaceship Physics System
 
 https://github.com/Jacob19999/unity_inertia_tensor
 
-# Spaceship Control System
+Spaceship Control System
 
 https://github.com/Jacob19999/unity_spaceship_control_system/tree/main
 
-# Modular Ship Construction System
+Modular Ship Construction System
 
 https://github.com/Jacob19999/unity_spacecship_attachment_system/tree/main
 
