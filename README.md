@@ -1,7 +1,5 @@
 # Space_Simulator
 
-# Gallery
-
 ![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/a4be09d7-ec7c-4311-acc0-f5f90dcfc51f)
 
 # Physically based atmosphere  
