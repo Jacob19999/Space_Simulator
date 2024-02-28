@@ -16,13 +16,13 @@ Spaceship Physics System
 
 https://github.com/Jacob19999/unity_inertia_tensor
 
-Spaceship Control System
-
-https://github.com/Jacob19999/unity_spaceship_control_system/tree/main
-
 Modular Ship Construction System
 
 https://github.com/Jacob19999/unity_spacecship_attachment_system/tree/main
+
+Spaceship Control System
+
+https://github.com/Jacob19999/unity_spaceship_control_system/tree/main
 
 # Goal 
 
