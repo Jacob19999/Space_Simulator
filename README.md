@@ -8,7 +8,7 @@ Physically based atmosphere
 
 https://github.com/Jacob19999/unity_physically_based_atmospheric_shader
 
-Orbital Mechanics SYstem
+Orbital Mechanics System
 
 https://github.com/Jacob19999/unity_n-body_runge-kutta
 
