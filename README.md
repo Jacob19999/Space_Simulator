@@ -1,5 +1,4 @@
 # Space Simulator In Unity
-Check Out My Projects -> https://jacobtang0329.wixsite.com/mysite/projects
 
 ![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/67bb5fef-4ff9-4045-be7c-020600aeb7d5)
 
@@ -72,5 +71,7 @@ In our game, you can build spaceships like you're playing with building blocks i
 Some problems that taking this idea to 3D created were figuring out where to 'float' a module when you're holding it and designing a control system that lets you manage flying your ship and building it at the same time.
 
 ![image](https://github.com/Jacob19999/Space_Simulator/assets/26366586/6e823e86-c267-4005-ae8f-53361b0c1f93)
+
+Check Out My Projects -> https://jacobtang0329.wixsite.com/mysite/projects
 
 
